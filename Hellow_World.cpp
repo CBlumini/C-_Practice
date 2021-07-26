@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Welcome to Online IDE!! Happy Coding :)";
+    cout<<"Hello Word";
     return 0;
 }
